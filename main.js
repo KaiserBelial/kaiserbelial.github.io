@@ -2,7 +2,7 @@ const grid = document.querySelector('#projects-grid')
 
 projects.forEach(project => {
   grid.innerHTML += `
-    <a href="${project.link}" class="project-card">
+    <a href="${project.page}" class="project-card">
         <img src="${project.image}" alt="${project.title}">
         <div class="project-info">
             <h3>${project.title}</h3>
