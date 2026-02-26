@@ -1,3 +1,11 @@
+/*
+        title: ,
+        description: ,
+        image: ,
+        page: ,
+        link: 
+*/
+
 var projects = [
     {
         title: "Masquerade Murderer",
@@ -6,6 +14,20 @@ var projects = [
         page: "projects/masquerade_murderer",
         link: "https://globalgamejam.org/games/2026/masquerade-murderer-9"
 
+    },
+    {
+        title: "Placeholder",
+        description: "Placeholder",
+        image: "/img/masquerade_murderer_gamejam_thumbnail.png",
+        page: "projects/masquerade_murderer",
+        link: "https://globalgamejam.org/games/2026/masquerade-murderer-9"
+    },
+    {
+        title: "Placeholder",
+        description: "Placeholder",
+        image: "/img/masquerade_murderer_gamejam_thumbnail.png",
+        page: "projects/masquerade_murderer",
+        link: "https://globalgamejam.org/games/2026/masquerade-murderer-9"
     }
 ]
 

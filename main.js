@@ -1,5 +1,4 @@
 const grid = document.querySelector('#projects-grid')
-
 projects.forEach(project => {
   grid.innerHTML += `
     <a href="${project.page}" class="project-card">
